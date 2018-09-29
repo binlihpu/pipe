@@ -14,7 +14,7 @@
 // You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-// Package util defines variety of utilities.
+// Package model util defines variety of utilities.
 package model
 
 import (
@@ -29,8 +29,8 @@ import (
 	"time"
 
 	"github.com/b3log/pipe/log"
-	"github.com/jinzhu/gorm"
 	"github.com/b3log/pipe/util"
+	"github.com/jinzhu/gorm"
 )
 
 // Logger
