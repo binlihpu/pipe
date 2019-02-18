@@ -25,10 +25,10 @@ import (
 	"time"
 
 	"github.com/araddon/dateparse"
-	"github.com/b3log/pipe/log"
-	"github.com/b3log/pipe/model"
-	"github.com/b3log/pipe/service"
-	"github.com/b3log/pipe/util"
+	"github.com/binlihpu/pipe/log"
+	"github.com/binlihpu/pipe/model"
+	"github.com/binlihpu/pipe/service"
+	"github.com/binlihpu/pipe/util"
 	"github.com/fatih/structs"
 	"github.com/gin-gonic/gin"
 )

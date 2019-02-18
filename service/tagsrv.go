@@ -19,7 +19,7 @@ package service
 import (
 	"sync"
 
-	"github.com/b3log/pipe/model"
+	"github.com/binlihpu/pipe/model"
 )
 
 // Tag service.

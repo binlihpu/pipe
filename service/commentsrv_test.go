@@ -19,7 +19,7 @@ package service
 import (
 	"testing"
 
-	"github.com/b3log/pipe/model"
+	"github.com/binlihpu/pipe/model"
 )
 
 func TestConsoleGetComments(t *testing.T) {

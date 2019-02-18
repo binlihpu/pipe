@@ -20,7 +20,7 @@ package cron
 import (
 	"os"
 
-	"github.com/b3log/pipe/log"
+	"github.com/binlihpu/pipe/log"
 )
 
 // Logger

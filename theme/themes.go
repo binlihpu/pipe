@@ -21,9 +21,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/b3log/pipe/log"
-	"github.com/b3log/pipe/util"
-	"github.com/b3log/pipe/model"
+	"github.com/binlihpu/pipe/log"
+	"github.com/binlihpu/pipe/util"
+	"github.com/binlihpu/pipe/model"
 )
 
 // Logger

@@ -22,10 +22,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/b3log/pipe/i18n"
-	"github.com/b3log/pipe/model"
-	"github.com/b3log/pipe/service"
-	"github.com/b3log/pipe/util"
+	"github.com/binlihpu/pipe/i18n"
+	"github.com/binlihpu/pipe/model"
+	"github.com/binlihpu/pipe/service"
+	"github.com/binlihpu/pipe/util"
 	"github.com/gin-gonic/gin"
 	"github.com/vinta/pangu"
 )
